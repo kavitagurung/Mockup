@@ -1061,7 +1061,7 @@ function renderTopbar(title, subtitle) {
         <div class="user-chip">
           <div class="user-meta">
             <strong>Ziplyne</strong>
-            <span>papinenibhavitha12@gmail.com</span>
+            <span>test@gmail.com</span>
           </div>
           <div class="user-avatar">Z</div>
         </div>
