@@ -1030,7 +1030,6 @@ function renderSidebar() {
         </div>
       </div>
       <button class="highlight-card">
-        <span class="highlight-title">AI Test Generator</span>
       </button>
       <div class="nav-search">Search navigation...</div>
       <div class="nav-group">
