@@ -1029,8 +1029,7 @@ function renderSidebar() {
           <div class="brand-subtitle">Automation Workspace</div>
         </div>
       </div>
-      <button class="highlight-card">
-      </button>
+      
       <div class="nav-search">Search navigation...</div>
       <div class="nav-group">
         <div class="nav-label">Main</div>
